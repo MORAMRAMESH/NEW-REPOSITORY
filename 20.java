@@ -1,3 +1,3 @@
 this is a github tutorial project
 practice makes man perfect
-hyderabad is a biggest south indian city
+secundrabad is a biggest south indian city
